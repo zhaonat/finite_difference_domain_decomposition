@@ -1,2 +1,0 @@
-%% calculate numerical dispersion
-
